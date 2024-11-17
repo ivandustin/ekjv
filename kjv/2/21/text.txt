@@ -1,38 +1,37 @@
 Here are the edited lines:
-
-Now these are the judgments that you shall set before them.  
-If you buy a Hebrew servant, he shall serve for six years; in the seventh year, he shall go out free without charge.  
-If he came in alone, he shall go out alone; if he was married, then his wife shall go out with him.  
-If his master has given him a wife, and she has borne him sons or daughters, the wife and her children shall belong to her master, and he shall go out alone.  
-But if the servant declares, "I love my master, my wife, and my children; I do not want to go out free,"  
-Then his master shall bring him to the judges; he shall also bring him to the door or to the doorpost, and his master shall pierce his ear with an awl; he shall serve him forever.  
-If a man sells his daughter to be a maidservant, she shall not go out as the male servants do.  
-If she does not please her master, who has betrothed her to himself, he shall allow her to be redeemed; he shall not have the power to sell her to a foreign nation, since he has dealt deceitfully with her.  
-If he has betrothed her to his son, he shall treat her as a daughter.  
-If he takes another wife, he shall not diminish her food, her clothing, or her marital rights.  
-If he does not provide these three things for her, she shall go out free without payment.  
-Anyone who strikes a man so that he dies shall surely be put to death.  
-If a man did not lie in wait, but God delivered him into his hand, then I will appoint a place where he shall flee.  
-But if a man comes presumptuously upon his neighbor to kill him with deceit, you shall take him from my altar, that he may die.  
-Anyone who strikes his father or mother shall surely be put to death.  
-Anyone who kidnaps a man and sells him, or if he is found in his possession, shall surely be put to death.  
-Anyone who curses his father or mother shall surely be put to death.  
-If men quarrel and one strikes another with a stone or with his fist, and he does not die but is confined to bed,  
-If he gets up and walks with a staff, then the one who struck him shall be acquitted; only he shall pay for the loss of his time and shall ensure he is thoroughly healed.  
-If a man strikes his servant or maid with a rod and he dies under his hand, he shall surely be punished.  
-However, if he survives a day or two, he shall not be punished, for he is his property.  
-If men fight and hurt a pregnant woman so that her child departs from her, yet no further harm follows, he shall surely be punished according to what the woman's husband demands, and he shall pay as the judges determine.  
-But if any harm follows, then you shall give life for life,  
-Eye for eye, tooth for tooth, hand for hand, foot for foot,  
-Burn for burn, wound for wound, stripe for stripe.  
-If a man strikes out the eye of his servant or maid, causing it to perish, he shall let him go free for the sake of his eye.  
-If he knocks out his servant's tooth or his maid's tooth, he shall let him go free for the sake of his tooth.  
-If an ox gores a man or a woman so that they die, the ox shall surely be stoned, and its flesh shall not be eaten; but the owner of the ox shall be acquitted.  
-But if the ox was known to push with its horn in the past, and it has been testified to its owner, and he has not kept it contained, resulting in the death of a man or woman, the ox shall be stoned, and the owner shall also be put to death.  
-If a monetary penalty is imposed on him, he shall pay whatever is required for the ransom of his life.  
-Whether he has gored a son or gored a daughter, according to this judgment it shall be done to him.  
-If the ox gores a servant, he shall pay their master thirty shekels of silver, and the ox shall be stoned.  
-If a man opens a pit or digs a pit and does not cover it, and an ox or donkey falls in,  
-The owner of the pit shall make restitution and pay money to the owner of the animal, and the dead animal shall be his.  
-If one man's ox injures another's so that it dies, they shall sell the live ox and divide the money; and they shall also divide the dead ox.  
+Now these are the judgments that you shall set before them.
+If you buy a Hebrew servant, he shall serve for six years; in the seventh year, he shall go out free without charge.
+If he came in alone, he shall go out alone; if he was married, then his wife shall go out with him.
+If his master has given him a wife, and she has borne him sons or daughters, the wife and her children shall belong to her master, and he shall go out alone.
+But if the servant declares, "I love my master, my wife, and my children; I do not want to go out free,"
+Then his master shall bring him to the judges; he shall also bring him to the door or to the doorpost, and his master shall pierce his ear with an awl; he shall serve him forever.
+If a man sells his daughter to be a maidservant, she shall not go out as the male servants do.
+If she does not please her master, who has betrothed her to himself, he shall allow her to be redeemed; he shall not have the power to sell her to a foreign nation, since he has dealt deceitfully with her.
+If he has betrothed her to his son, he shall treat her as a daughter.
+If he takes another wife, he shall not diminish her food, her clothing, or her marital rights.
+If he does not provide these three things for her, she shall go out free without payment.
+Anyone who strikes a man so that he dies shall surely be put to death.
+If a man did not lie in wait, but God delivered him into his hand, then I will appoint a place where he shall flee.
+But if a man comes presumptuously upon his neighbor to kill him with deceit, you shall take him from my altar, that he may die.
+Anyone who strikes his father or mother shall surely be put to death.
+Anyone who kidnaps a man and sells him, or if he is found in his possession, shall surely be put to death.
+Anyone who curses his father or mother shall surely be put to death.
+If men quarrel and one strikes another with a stone or with his fist, and he does not die but is confined to bed,
+If he gets up and walks with a staff, then the one who struck him shall be acquitted; only he shall pay for the loss of his time and shall ensure he is thoroughly healed.
+If a man strikes his servant or maid with a rod and he dies under his hand, he shall surely be punished.
+However, if he survives a day or two, he shall not be punished, for he is his property.
+If men fight and hurt a pregnant woman so that her child departs from her, yet no further harm follows, he shall surely be punished according to what the woman's husband demands, and he shall pay as the judges determine.
+But if any harm follows, then you shall give life for life,
+Eye for eye, tooth for tooth, hand for hand, foot for foot,
+Burn for burn, wound for wound, stripe for stripe.
+If a man strikes out the eye of his servant or maid, causing it to perish, he shall let him go free for the sake of his eye.
+If he knocks out his servant's tooth or his maid's tooth, he shall let him go free for the sake of his tooth.
+If an ox gores a man or a woman so that they die, the ox shall surely be stoned, and its flesh shall not be eaten; but the owner of the ox shall be acquitted.
+But if the ox was known to push with its horn in the past, and it has been testified to its owner, and he has not kept it contained, resulting in the death of a man or woman, the ox shall be stoned, and the owner shall also be put to death.
+If a monetary penalty is imposed on him, he shall pay whatever is required for the ransom of his life.
+Whether he has gored a son or gored a daughter, according to this judgment it shall be done to him.
+If the ox gores a servant, he shall pay their master thirty shekels of silver, and the ox shall be stoned.
+If a man opens a pit or digs a pit and does not cover it, and an ox or donkey falls in,
+The owner of the pit shall make restitution and pay money to the owner of the animal, and the dead animal shall be his.
+If one man's ox injures another's so that it dies, they shall sell the live ox and divide the money; and they shall also divide the dead ox.
 If it is known that the ox has a history of goring, and its owner has not kept it contained, he shall surely pay ox for ox, and the dead animal shall be his own.

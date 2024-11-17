@@ -1,51 +1,51 @@
-And the LORD spoke to Moses and Aaron in the land of Egypt, saying,  
-"This month shall be the beginning of months for you; it shall be the first month of the year for you.  
-Speak to all the congregation of Israel, saying, 'On the tenth day of this month, each man shall take a lamb according to the house of their fathers, a lamb for each house.'  
-And if the household is too small for the lamb, let him and his neighbor next to his house take one according to the number of souls; each man shall count for the lamb according to what he can eat.  
-Your lamb shall be without blemish, a male of the first year; you shall take it from the sheep or from the goats.  
-And you shall keep it until the fourteenth day of the same month, and the whole assembly of the congregation of Israel shall kill it at twilight.  
-They shall take some of the blood and put it on the two side posts and on the upper doorpost of the houses where they eat it.  
-They shall eat the flesh that night, roasted over the fire, with unleavened bread and bitter herbs they shall eat it.  
-Do not eat any of it raw or boiled in water, but roasted over the fire; its head, its legs, and its inner parts.  
-And you shall let nothing of it remain until morning; and whatever remains until morning you shall burn with fire.  
-And thus you shall eat it: with your loins girded, your sandals on your feet, and your staff in your hand; and you shall eat it in haste. It is the LORD's Passover.  
-For I will pass through the land of Egypt this night, and will strike all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt, I will execute judgment. I am the LORD.  
-The blood shall be a sign for you on the houses where you are; and when I see the blood, I will pass over you, and the plague shall not destroy you when I strike the land of Egypt.  
-This day shall be a memorial for you, and you shall keep it as a feast to the LORD throughout your generations; you shall keep it as a feast by an everlasting ordinance.  
-For seven days you shall eat unleavened bread; on the first day, you shall remove leaven from your houses. For whoever eats leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.  
-On the first day, there shall be a holy convocation, and on the seventh day, there shall be a holy convocation for you; no work shall be done on those days, except for what every person must eat; that alone may be done by you.  
-You shall observe the feast of unleavened bread, for on this very day, I brought your armies out of the land of Egypt. Therefore, you shall observe this day throughout your generations as an everlasting ordinance.  
-In the first month, on the fourteenth day of the month at twilight, you shall eat unleavened bread until the twenty-first day of the month at twilight.  
-For seven days, no leaven shall be found in your houses; for whoever eats what is leavened, that soul shall be cut off from the congregation of Israel, whether he is a stranger or born in the land.  
-You shall eat nothing leavened; in all your dwellings, you shall eat unleavened bread.  
-Then Moses called for all the elders of Israel and said to them, 'Draw out and take a lamb according to your families, and kill the Passover.'  
-You shall take a bunch of hyssop, dip it in the blood that is in the basin, and strike the lintel and the two side posts with the blood from the basin; and none of you shall go out of the door of his house until morning.  
-For the LORD will pass through to strike the Egyptians; and when He sees the blood on the lintel and on the two side posts, the LORD will pass over the door and will not allow the destroyer to enter your houses to strike you.  
-You shall observe this as an ordinance for you and your sons forever.  
-When you come to the land which the LORD will give you, as He has promised, you shall keep this service.  
-When your children ask you, 'What does this service mean to you?'  
-You shall say, 'It is the sacrifice of the LORD's Passover, who passed over the houses of the children of Israel in Egypt when He struck the Egyptians and delivered our households.' And the people bowed their heads and worshipped.  
-The children of Israel went and did as the LORD commanded Moses and Aaron; so they did.  
-At midnight, the LORD struck all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive in the dungeon, and all the firstborn of livestock.  
-Pharaoh rose up in the night, he and all his servants and all the Egyptians; and there was a great cry in Egypt, for there was not a house without someone dead.  
-He called for Moses and Aaron by night and said, 'Rise up, get out from among my people, both you and the children of Israel; go, serve the LORD as you have said.  
-Also, take your flocks and your herds, as you have said, and be gone; and bless me also.'  
-The Egyptians urged the people to send them out of the land in haste, for they said, 'We are all dead men.'  
-The people took their dough before it was leavened, their kneading bowls bound up in their clothes on their shoulders.  
-The children of Israel did according to the word of Moses; they asked the Egyptians for silver and gold jewelry and clothing.  
-The LORD gave the people favor in the sight of the Egyptians, so that they lent them whatever they required. Thus, they plundered the Egyptians.  
-The children of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides children.  
-A mixed multitude also went up with them, along with flocks and herds, very much livestock.  
-They baked unleavened cakes of the dough they had brought out of Egypt, for it was not leavened, because they were driven out of Egypt and could not wait, nor had they prepared any provisions for themselves.  
-Now the sojourning of the children of Israel who lived in Egypt was four hundred and thirty years.  
-At the end of the four hundred and thirty years, on that very day, all the hosts of the LORD went out from the land of Egypt.  
-It is a night to be much observed for the LORD for bringing them out of the land of Egypt; this is that night of the LORD to be observed by all the children of Israel throughout their generations.  
-The LORD said to Moses and Aaron, 'This is the ordinance of the Passover: no foreigner shall eat of it.  
-But every man's servant who is bought for money, when you have circumcised him, then he may eat of it.  
-A foreigner and a hired servant shall not eat of it.  
-In one house it shall be eaten; you shall not carry any of the flesh outside the house, nor shall you break a bone of it.  
-All the congregation of Israel shall keep it.  
-When a stranger sojourns with you and wants to keep the Passover to the LORD, let all his males be circumcised, and then let him come near and keep it; he shall be as one born in the land, for no uncircumcised person shall eat of it.  
-One law shall be for the native-born and for the stranger who dwells among you.  
-Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so they did.  
+And the LORD spoke to Moses and Aaron in the land of Egypt, saying,
+"This month shall be the beginning of months for you; it shall be the first month of the year for you.
+Speak to all the congregation of Israel, saying, 'On the tenth day of this month, each man shall take a lamb according to the house of their fathers, a lamb for each house.'
+And if the household is too small for the lamb, let him and his neighbor next to his house take one according to the number of souls; each man shall count for the lamb according to what he can eat.
+Your lamb shall be without blemish, a male of the first year; you shall take it from the sheep or from the goats.
+And you shall keep it until the fourteenth day of the same month, and the whole assembly of the congregation of Israel shall kill it at twilight.
+They shall take some of the blood and put it on the two side posts and on the upper doorpost of the houses where they eat it.
+They shall eat the flesh that night, roasted over the fire, with unleavened bread and bitter herbs they shall eat it.
+Do not eat any of it raw or boiled in water, but roasted over the fire; its head, its legs, and its inner parts.
+And you shall let nothing of it remain until morning; and whatever remains until morning you shall burn with fire.
+And thus you shall eat it: with your loins girded, your sandals on your feet, and your staff in your hand; and you shall eat it in haste. It is the LORD's Passover.
+For I will pass through the land of Egypt this night, and will strike all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt, I will execute judgment. I am the LORD.
+The blood shall be a sign for you on the houses where you are; and when I see the blood, I will pass over you, and the plague shall not destroy you when I strike the land of Egypt.
+This day shall be a memorial for you, and you shall keep it as a feast to the LORD throughout your generations; you shall keep it as a feast by an everlasting ordinance.
+For seven days you shall eat unleavened bread; on the first day, you shall remove leaven from your houses. For whoever eats leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
+On the first day, there shall be a holy convocation, and on the seventh day, there shall be a holy convocation for you; no work shall be done on those days, except for what every person must eat; that alone may be done by you.
+You shall observe the feast of unleavened bread, for on this very day, I brought your armies out of the land of Egypt. Therefore, you shall observe this day throughout your generations as an everlasting ordinance.
+In the first month, on the fourteenth day of the month at twilight, you shall eat unleavened bread until the twenty-first day of the month at twilight.
+For seven days, no leaven shall be found in your houses; for whoever eats what is leavened, that soul shall be cut off from the congregation of Israel, whether he is a stranger or born in the land.
+You shall eat nothing leavened; in all your dwellings, you shall eat unleavened bread.
+Then Moses called for all the elders of Israel and said to them, 'Draw out and take a lamb according to your families, and kill the Passover.'
+You shall take a bunch of hyssop, dip it in the blood that is in the basin, and strike the lintel and the two side posts with the blood from the basin; and none of you shall go out of the door of his house until morning.
+For the LORD will pass through to strike the Egyptians; and when He sees the blood on the lintel and on the two side posts, the LORD will pass over the door and will not allow the destroyer to enter your houses to strike you.
+You shall observe this as an ordinance for you and your sons forever.
+When you come to the land which the LORD will give you, as He has promised, you shall keep this service.
+When your children ask you, 'What does this service mean to you?'
+You shall say, 'It is the sacrifice of the LORD's Passover, who passed over the houses of the children of Israel in Egypt when He struck the Egyptians and delivered our households.' And the people bowed their heads and worshipped.
+The children of Israel went and did as the LORD commanded Moses and Aaron; so they did.
+At midnight, the LORD struck all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive in the dungeon, and all the firstborn of livestock.
+Pharaoh rose up in the night, he and all his servants and all the Egyptians; and there was a great cry in Egypt, for there was not a house without someone dead.
+He called for Moses and Aaron by night and said, 'Rise up, get out from among my people, both you and the children of Israel; go, serve the LORD as you have said.
+Also, take your flocks and your herds, as you have said, and be gone; and bless me also.'
+The Egyptians urged the people to send them out of the land in haste, for they said, 'We are all dead men.'
+The people took their dough before it was leavened, their kneading bowls bound up in their clothes on their shoulders.
+The children of Israel did according to the word of Moses; they asked the Egyptians for silver and gold jewelry and clothing.
+The LORD gave the people favor in the sight of the Egyptians, so that they lent them whatever they required. Thus, they plundered the Egyptians.
+The children of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides children.
+A mixed multitude also went up with them, along with flocks and herds, very much livestock.
+They baked unleavened cakes of the dough they had brought out of Egypt, for it was not leavened, because they were driven out of Egypt and could not wait, nor had they prepared any provisions for themselves.
+Now the sojourning of the children of Israel who lived in Egypt was four hundred and thirty years.
+At the end of the four hundred and thirty years, on that very day, all the hosts of the LORD went out from the land of Egypt.
+It is a night to be much observed for the LORD for bringing them out of the land of Egypt; this is that night of the LORD to be observed by all the children of Israel throughout their generations.
+The LORD said to Moses and Aaron, 'This is the ordinance of the Passover: no foreigner shall eat of it.
+But every man's servant who is bought for money, when you have circumcised him, then he may eat of it.
+A foreigner and a hired servant shall not eat of it.
+In one house it shall be eaten; you shall not carry any of the flesh outside the house, nor shall you break a bone of it.
+All the congregation of Israel shall keep it.
+When a stranger sojourns with you and wants to keep the Passover to the LORD, let all his males be circumcised, and then let him come near and keep it; he shall be as one born in the land, for no uncircumcised person shall eat of it.
+One law shall be for the native-born and for the stranger who dwells among you.
+Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so they did.
 It came to pass on that very day that the LORD brought the children of Israel out of the land of Egypt by their armies.
