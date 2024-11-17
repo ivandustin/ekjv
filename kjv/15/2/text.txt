@@ -1,46 +1,45 @@
-Here are the edited lines:
-Now these are the descendants of the province who returned from captivity, those who had been exiled by Nebuchadnezzar, king of Babylon, and came back to Jerusalem and Judah, each to their own city.
-They came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, and Baanah. The total number of the men of the people of Israel is as follows:
-The children of Parosh: two thousand one hundred seventy-two.
-The children of Shephatiah: three hundred seventy-two.
-The children of Arah: seven hundred seventy-five.
-The children of Pahathmoab, of the children of Jeshua and Joab: two thousand eight hundred twelve.
-The children of Elam: one thousand two hundred fifty-four.
-The children of Zattu: nine hundred forty-five.
-The children of Zaccai: seven hundred sixty-three.
-The children of Bani: six hundred forty-two.
-The children of Bebai: six hundred twenty-three.
-The children of Azgad: one thousand two hundred twenty-two.
-The children of Adonikam: six hundred sixty-six.
-The children of Bigvai: two thousand fifty-six.
-The children of Adin: four hundred fifty-four.
-The children of Ater of Hezekiah: ninety-eight.
-The children of Bezai: three hundred twenty-three.
-The children of Jorah: one hundred twelve.
-The children of Hashum: two hundred twenty-three.
-The children of Gibbar: ninety-five.
-The children of Bethlehem: one hundred twenty-three.
-The men of Netophah: fifty-six.
-The men of Anathoth: one hundred twenty-eight.
-The children of Azmaveth: forty-two.
-The children of Kirjatharim, Chephirah, and Beeroth: seven hundred forty-three.
-The children of Ramah and Gaba: six hundred twenty-one.
-The men of Michmas: one hundred twenty-two.
-The men of Bethel and Ai: two hundred twenty-three.
-The children of Nebo: fifty-two.
-The children of Magbish: one hundred fifty-six.
-The children of the other Elam: one thousand two hundred fifty-four.
-The children of Harim: three hundred twenty.
-The children of Lod, Hadid, and Ono: seven hundred twenty-five.
-The children of Jericho: three hundred forty-five.
-The children of Senaah: three thousand six hundred thirty.
-The priests: the children of Jedaiah, of the house of Jeshua: nine hundred seventy-three.
-The children of Immer: one thousand fifty-two.
-The children of Pashur: one thousand two hundred forty-seven.
-The children of Harim: one thousand seventeen.
-The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah: seventy-four.
-The singers: the children of Asaph: one hundred twenty-eight.
-The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, and the children of Shobai, totaling one hundred thirty-nine.
+Now these are the children of the province who went up out of captivity, of those who had been carried away, whom Nebuchadnezzar, the king of Babylon, had taken to Babylon, and returned to Jerusalem and Judah, each to his own city;
+Who came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
+The children of Parosh, two thousand one hundred seventy-two.
+The children of Shephatiah, three hundred seventy-two.
+The children of Arah, seven hundred seventy-five.
+The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred twelve.
+The children of Elam, one thousand two hundred fifty-four.
+The children of Zattu, nine hundred forty-five.
+The children of Zaccai, seven hundred sixty.
+The children of Bani, six hundred forty-two.
+The children of Bebai, six hundred twenty-three.
+The children of Azgad, one thousand two hundred twenty-two.
+The children of Adonikam, six hundred sixty-six.
+The children of Bigvai, two thousand fifty-six.
+The children of Adin, four hundred fifty-four.
+The children of Ater of Hezekiah, ninety-eight.
+The children of Bezai, three hundred twenty-three.
+The children of Jorah, one hundred twelve.
+The children of Hashum, two hundred twenty-three.
+The children of Gibbar, ninety-five.
+The children of Bethlehem, one hundred twenty-three.
+The men of Netophah, fifty-six.
+The men of Anathoth, one hundred twenty-eight.
+The children of Azmaveth, forty-two.
+The children of Kirjatharim, Chephirah, and Beeroth, seven hundred forty-three.
+The children of Ramah and Gaba, six hundred twenty-one.
+The men of Michmas, one hundred twenty-two.
+The men of Bethel and Ai, two hundred twenty-three.
+The children of Nebo, fifty-two.
+The children of Magbish, one hundred fifty-six.
+The children of the other Elam, one thousand two hundred fifty-four.
+The children of Harim, three hundred twenty.
+The children of Lod, Hadid, and Ono, seven hundred twenty-five.
+The children of Jericho, three hundred forty-five.
+The children of Senaah, three thousand six hundred thirty.
+The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy-three.
+The children of Immer, one thousand fifty-two.
+The children of Pashur, one thousand two hundred forty-seven.
+The children of Harim, one thousand seventeen.
+The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy-four.
+The singers: the children of Asaph, one hundred twenty-eight.
+The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all one hundred thirty-nine.
 The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,
 The children of Keros, the children of Siaha, the children of Padon,
 The children of Lebanah, the children of Hagabah, the children of Akkub,
@@ -55,17 +54,17 @@ The children of Barkos, the children of Sisera, the children of Thamah,
 The children of Neziah, the children of Hatipha.
 The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,
 The children of Jaalah, the children of Darkon, the children of Giddel,
-The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, and the children of Ami.
-All the Nethinims and the children of Solomon's servants totaled three hundred ninety-two.
-These were those who returned from Telmelah, Telharsa, Cherub, Addan, and Immer: they could not prove their father's house or their lineage, whether they were of Israel:
-The children of Delaiah, the children of Tobiah, the children of Nekoda: six hundred fifty-two.
-And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, who took a wife from the daughters of Barzillai the Gileadite and was called by their name.
-These sought their register among those who were listed by genealogy, but they were not found; therefore, they were considered polluted and excluded from the priesthood.
-The Tirshatha told them that they should not eat of the most holy things until a priest stood up with Urim and Thummim.
-The whole congregation together numbered forty-two thousand three hundred sixty,
-Besides their servants and maids, of whom there were seven thousand three hundred thirty-seven; and there were among them two hundred singing men and singing women.
-Their horses numbered seven hundred thirty-six; their mules, two hundred forty-five;
+The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami.
+All the Nethinims and the children of Solomon's servants were three hundred ninety-two.
+And these were they who went up from Telmelah, Telharsa, Cherub, Addan, and Immer: but they could not show their father's house, nor their seed, whether they were of Israel:
+The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty-two.
+And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; who took a wife from the daughters of Barzillai the Gileadite, and was called by their name:
+These sought their register among those who were reckoned by genealogy, but they were not found: therefore, they were, as polluted, put from the priesthood.
+And the Tirshatha said to them that they should not eat of the most holy things until there stood up a priest with Urim and Thummim.
+The whole congregation together was forty-two thousand three hundred sixty,
+Besides their servants and their maids, of whom there were seven thousand three hundred thirty-seven: and there were among them two hundred singing men and singing women.
+Their horses were seven hundred thirty-six; their mules, two hundred forty-five;
 Their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
-Some of the chief of the fathers, when they came to the house of the LORD in Jerusalem, offered freely for the house of God to establish it in its place.
-They gave according to their ability to the treasury of the work: sixty-one thousand drams of gold, five thousand pounds of silver, and one hundred priestly garments.
+And some of the chief of the fathers, when they came to the house of the LORD which is in Jerusalem, offered freely for the house of God to set it up in its place:
+They gave according to their ability to the treasure of the work sixty-one thousand drams of gold, five thousand pounds of silver, and one hundred priests' garments.
 So the priests, the Levites, some of the people, the singers, the porters, and the Nethinims dwelt in their cities, and all Israel in their cities.

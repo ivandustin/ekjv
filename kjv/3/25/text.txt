@@ -1,44 +1,55 @@
 And the LORD spoke to Moses on Mount Sinai, saying,
-"Speak to the children of Israel and tell them, 'When you enter the land that I give you, the land shall observe a Sabbath for the LORD.
-For six years you shall sow your fields, and for six years you shall prune your vineyards and gather their produce;
-But in the seventh year, there shall be a Sabbath of rest for the land, a Sabbath for the LORD: you shall neither sow your fields nor prune your vineyards.
-Whatever grows of its own accord during your harvest you shall not reap, nor gather the grapes of your unpruned vines: for it is a year of rest for the land.
-And the Sabbath of the land shall be food for you; for you, your servants, your maids, your hired workers, and the strangers who reside with you.
-And for your livestock and the wild animals in your land, all its produce shall be food.
-You shall count seven Sabbaths of years for yourself, seven times seven years; the total of the seven Sabbaths of years shall be forty-nine years for you.
-Then you shall sound the trumpet for the Jubilee on the tenth day of the seventh month; on the Day of Atonement, you shall make the trumpet sound throughout your land.
-You shall consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants: it shall be a Jubilee for you; each of you shall return to your property, and each of you shall return to your family.
-The fiftieth year shall be a Jubilee for you: you shall not sow, nor reap what grows of itself, nor gather the grapes of your unpruned vines.
-For it is the Jubilee; it shall be holy to you: you shall eat the produce from the field.
-In this Jubilee year, each of you shall return to your property.
-If your brother becomes poor and sells some of his property, and if any of his relatives come to redeem it, then he shall redeem what his brother sold.
-If a man has no one to redeem it, but he himself becomes able to redeem it,
-Then he shall calculate the years since the sale and return the excess to the man to whom he sold it, so that he may return to his property.
-But if he is unable to restore it to him, then what was sold shall remain in the hands of the buyer until the Year of Jubilee; in the Jubilee, it shall be released, and he shall return to his property.
-If a man sells a dwelling house in a walled city, he may redeem it within a whole year after it is sold; he may redeem it within a full year.
-If it is not redeemed within the year, then the house in the walled city shall remain permanently with the buyer throughout their generations; it shall not be released in the Jubilee.
-But the houses of the villages that have no wall around them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the Jubilee.
-However, the cities of the Levites and the houses in the cities of their possession may be redeemed at any time.
-If a man purchases from the Levites, then the house that was sold and the city of his possession shall go out in the Year of Jubilee; for the houses in the cities of the Levites are their possession among the children of Israel.
-But the field surrounding their cities may not be sold; for it is their perpetual possession.
-If your brother becomes poor and is in need among you, you shall help him, even if he is a stranger or a sojourner, so that he may live with you.
-Do not take interest from him or increase; but fear your God, so that your brother may live with you.
-You shall not lend him your money at interest, nor give him your food for profit.
+Speak to the children of Israel, and say to them, When you come into the land which I give you, then the land shall observe a sabbath unto the LORD.
+For six years you shall sow your field, and for six years you shall prune your vineyard, and gather in the fruit thereof;
+But in the seventh year shall be a sabbath of rest for the land, a sabbath for the LORD: you shall neither sow your field, nor prune your vineyard.
+That which grows of its own accord from your harvest you shall not reap, nor gather the grapes of your vine undressed: for it is a year of rest for the land.
+And the sabbath of the land shall be food for you; for you, and for your servant, and for your maid, and for your hired servant, and for your stranger that sojourns with you.
+And for your cattle, and for the beasts that are in your land, shall all the increase thereof be food.
+And you shall count seven sabbaths of years for yourself, seven times seven years; and the space of the seven sabbaths of years shall be to you forty-nine years.
+Then you shall cause the trumpet of the jubilee to sound on the tenth day of the seventh month; on the Day of Atonement you shall make the trumpet sound throughout all your land.
+And you shall consecrate the fiftieth year, and proclaim liberty throughout all the land to all its inhabitants: it shall be a jubilee for you; and you shall return every man to his possession, and you shall return every man to his family.
+A jubilee shall that fiftieth year be for you: you shall not sow, nor reap that which grows of itself in it, nor gather the grapes of your vine undressed.
+For it is the jubilee; it shall be holy to you: you shall eat the increase thereof out of the field.
+In the year of this jubilee you shall return every man to his possession.
+And if you sell anything to your neighbor, or buy from your neighbor's hand, you shall not oppress one another:
+According to the number of years after the jubilee you shall buy from your neighbor, and according to the number of years of the fruits he shall sell to you:
+According to the multitude of years you shall increase the price thereof, and according to the fewness of years you shall diminish the price of it: for according to the number of the years of the fruits does he sell to you.
+You shall not therefore oppress one another; but you shall fear your God: for I am the LORD your God.
+Therefore you shall do my statutes, and keep my judgments, and do them; and you shall dwell in the land in safety.
+And the land shall yield her fruit, and you shall eat your fill, and dwell therein in safety.
+And if you shall say, What shall we eat in the seventh year? behold, we shall not sow, nor gather in our increase:
+Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
+And you shall sow in the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in you shall eat of the old store.
+The land shall not be sold forever: for the land is mine; for you are strangers and sojourners with me.
+And in all the land of your possession you shall grant a redemption for the land.
+If your brother becomes poor, and has sold away some of his possession, and if any of his kin come to redeem it, then he shall redeem that which his brother sold.
+And if the man has none to redeem it, and he himself is able to redeem it;
+Then let him count the years of the sale thereof, and restore the overplus to the man to whom he sold it; that he may return to his possession.
+But if he is not able to restore it to him, then that which is sold shall remain in the hand of him that bought it until the year of jubilee: and in the jubilee it shall go out, and he shall return to his possession.
+And if a man sells a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it.
+And if it is not redeemed within the space of a full year, then the house that is in the walled city shall be established forever to him that bought it throughout his generations: it shall not go out in the jubilee.
+But the houses of the villages which have no wall around them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubilee.
+Notwithstanding, the cities of the Levites, and the houses of the cities of their possession, may the Levites redeem at any time.
+And if a man purchases from the Levites, then the house that was sold, and the city of his possession, shall go out in the year of jubilee: for the houses of the cities of the Levites are their possession among the children of Israel.
+But the field of the suburbs of their cities may not be sold; for it is their perpetual possession.
+And if your brother becomes poor, and falls into decay with you; then you shall relieve him: yes, though he be a stranger or a sojourner; that he may live with you.
+Take no usury from him, or increase: but fear your God; that your brother may live with you.
+You shall not give him your money upon usury, nor lend him your food for increase.
 I am the LORD your God, who brought you out of the land of Egypt, to give you the land of Canaan, and to be your God.
-If your brother who dwells by you becomes poor and is sold to you, you shall not make him serve as a slave.
-He shall be with you as a hired servant and as a sojourner; he shall serve you until the Year of Jubilee.
-Then he shall depart from you, both he and his children with him, and shall return to his own family and to the possession of his fathers.
-For they are My servants, whom I brought out of the land of Egypt; they shall not be sold as slaves.
-You shall not rule over him with rigor, but you shall fear your God.
-Both your male and female slaves whom you have shall be from the nations around you; from them you may buy male and female slaves.
-Moreover, you may buy the children of the strangers who dwell among you, and their families that are with you, which they begat in your land: they shall be your possession.
-You shall take them as an inheritance for your children after you, to inherit them as a possession; they shall be your slaves forever: but over your brethren, the children of Israel, you shall not rule one over another with rigor.
-If a sojourner or stranger becomes rich among you, and your brother who dwells by him becomes poor and sells himself to the stranger or sojourner among you, or to a member of the stranger's family:
-After he is sold, he may be redeemed again; one of his brothers may redeem him.
-Either his uncle or his uncle's son may redeem him, or any of his near relatives from his family may redeem him; or if he is able, he may redeem himself.
-He shall calculate with the one who bought him from the year he was sold to him until the Year of Jubilee; the price of his sale shall be according to the number of years, according to the time of a hired servant shall it be with him.
-If there are still many years left, according to them he shall repay the price of his redemption from the money for which he was bought.
-If there remain but a few years until the Year of Jubilee, then he shall calculate with him, and according to his years he shall repay the price of his redemption.
-As a yearly hired servant shall he be with him: and the other shall not rule over him with rigor in your sight.
-If he is not redeemed in these years, then he shall go out in the Year of Jubilee, both he and his children with him.
-For the children of Israel are My servants; they are My servants whom I brought out of the land of Egypt: I am the LORD your God."
+And if your brother that dwells by you becomes poor, and is sold to you; you shall not compel him to serve as a bondservant:
+But as a hired servant, and as a sojourner, he shall be with you, and shall serve you until the year of jubilee.
+And then he shall depart from you, both he and his children with him, and shall return to his own family, and to the possession of his fathers shall he return.
+For they are my servants, whom I brought out of the land of Egypt: they shall not be sold as bondmen.
+You shall not rule over him with rigor; but you shall fear your God.
+Both your bondmen and your bondmaids, which you shall have, shall be of the heathen that are round about you; of them shall you buy bondmen and bondmaids.
+Moreover, of the children of the strangers that do sojourn among you, of them shall you buy, and of their families that are with you, which they begat in your land: and they shall be your possession.
+And you shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen forever: but over your brethren, the children of Israel, you shall not rule one over another with rigor.
+And if a sojourner or stranger becomes rich by you, and your brother that dwells by him becomes poor, and sells himself to the stranger or sojourner by you, or to the stock of the stranger's family:
+After he is sold, he may be redeemed again; one of his brethren may redeem him:
+Either his uncle, or his uncle's son, may redeem him, or any that is near of kin to him of his family may redeem him; or if he is able, he may redeem himself.
+And he shall reckon with him that bought him from the year that he was sold to him until the year of jubilee: and the price of his sale shall be according to the number of years, according to the time of a hired servant shall it be with him.
+If there are yet many years remaining, according to them he shall give again the price of his redemption out of the money that he was bought for.
+And if there remain but few years until the year of jubilee, then he shall count with him, and according to his years shall he give him again the price of his redemption.
+And as a yearly hired servant shall he be with him: and the other shall not rule with rigor over him in your sight.
+And if he is not redeemed in these years, then he shall go out in the year of jubilee, both he and his children with him.
+For to me the children of Israel are servants; they are my servants whom I brought out of the land of Egypt: I am the LORD your God.
